@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Gamer XYZ",
+    "imagem": "https://t17208.vtexassets.com/arquivos/ids/170261/ESTELARGM6P_2.png?v=638956146847770000",
+    "descricao": "Notebook potente com processador i7, 16GB RAM e placa de vídeo dedicada.",
+    "preco": 4999.90,
+    "desconto": 15,
+    "categoria": "PC"
+  },
+  {
+    "id": 2,
+    "nome": "PC Desktop Intel Core i5",
+    "imagem": "https://images.unsplash.com/photo-1593642532400-2682810df593?auto=format&fit=crop&w=800&q=80",
+    "descricao": "Computador completo para home office e tarefas de produtividade.",
+    "preco": 3499.90,
+    "desconto": 10,
+    "categoria": "PC"
+  },
+  {
+    "id": 3,
+    "nome": "Monitor LED 24\" Full HD",
+    "imagem": "https://images.kabum.com.br/produtos/fotos/sync_mirakl/497761/Monitor-Gamer-Gigabyte-34-Polegadas-144HZ-1MS-FULL-HD-HDMI-displayport-Curvo-1500r-Flicker-Free-Vesa-G34wqc-sa_1696272496_gg.jpg",
+    "descricao": "Monitor de alta definição com cores vibrantes e tempo de resposta rápido.",
+    "preco": 899.90,
+    "desconto": 12,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 4,
+    "nome": "Teclado Mecânico RGB",
+    "imagem": "https://images.kabum.com.br/produtos/fotos/472044/teclado-mecanico-gamer-kbm-gaming-tg600-preto-60-e-abnt2-rgb-switch-gateron-blue-kgtg600ptaz_1709825263_gg.jpg",
+    "descricao": "Teclado mecânico com iluminação RGB e switches de alta durabilidade.",
+    "preco": 399.90,
+    "desconto": 20,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 5,
+    "nome": "Mouse Gamer Óptico",
+    "imagem": "https://cdn.shoppub.io/cdn-cgi/image/w=1000,h=1000,q=80,f=auto/oficinadosbits/media/uploads/produtos/foto/zyggufky/file.png",
+    "descricao": "Mouse com sensor de alta precisão e botões programáveis.",
+    "preco": 249.90,
+    "desconto": 15,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 6,
+    "nome": "Impressora Multifuncional a Laser",
+    "imagem": "https://img.kalunga.com.br/fotosdeprodutos/220204z.jpg",
+    "descricao": "Impressora com impressão, cópia e digitalização de alta qualidade.",
+    "preco": 1299.90,
+    "desconto": 18,
+    "categoria": "Impressoras"
+  },
+  {
+    "id": 7,
+    "nome": "Impressora Térmica Portátil",
+    "imagem": "https://www.brother.com.br/-/media/brother/product-catalog-media/images/2020/05/12/18/22/pj763_right.png",
+    "descricao": "Impressora portátil compacta, ideal para recibos e etiquetas.",
+    "preco": 599.90,
+    "desconto": 10,
+    "categoria": "Impressoras"
+  },
+  {
+    "id": 8,
+    "nome": "SSD 1TB NVMe",
+    "imagem": "https://m.media-amazon.com/images/I/71qA45tWZ5L.jpg",
+    "descricao": "Armazenamento ultrarrápido para melhorar desempenho do PC ou notebook.",
+    "preco": 699.90,
+    "desconto": 12,
+    "categoria": "Hardware"
+  },
+  {
+    "id": 9,
+    "nome": "Memória RAM 16GB DDR4",
+    "imagem": "https://www.kingstonstore.com.br/cdn/shop/files/KFBL1_7fd4a4ca-14cf-4306-a4c9-adb5a5bce979.jpg?v=1733173354",
+    "descricao": "Memória de alta velocidade para melhorar desempenho multitarefa.",
+    "preco": 499.90,
+    "desconto": 15,
+    "categoria": "Hardware"
+  },
+  {
+    "id": 10,
+    "nome": "Webcam Full HD",
+    "imagem": "data:image/jpeg;base64,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",
+    "descricao": "Webcam com microfone integrado, ideal para videoconferências.",
+    "preco": 299.90,
+    "desconto": 10,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 11,
+    "nome": "Processador Intel Core i9",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT2FRL5pc-fCNTK5nYTvF9JuuVVIk9nCsZSA&s",
+    "descricao": "Processador de alto desempenho para jogos e aplicações pesadas.",
+    "preco": 3299.90,
+    "desconto": 15,
+    "categoria": "Hardware"
+  },
+  {
+    "id": 12,
+    "nome": "Processador AMD Ryzen 9",
+    "imagem": "https://www.amd.com/content/dam/amd/en/images/products/processors/ryzen/2505503-ryzen-9-7900x.jpg",
+    "descricao": "Processador com múltiplos núcleos para multitarefas avançadas.",
+    "preco": 2899.90,
+    "desconto": 10,
+    "categoria": "Hardware"
+  },
+  {
+    "id": 13,
+    "nome": "Placa de Vídeo NVIDIA RTX 4090",
+    "imagem": "https://br.octoshop.com/cdn/shop/files/QQ_20240730222524.png?v=1739292101",
+    "descricao": "Placa de vídeo topo de linha para jogos em 4K e renderização 3D.",
+    "preco": 15999.90,
+    "desconto": 12,
+    "categoria": "Hardware"
+  }
+]
